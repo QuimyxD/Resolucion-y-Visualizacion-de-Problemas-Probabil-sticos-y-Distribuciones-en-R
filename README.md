@@ -1,0 +1,2 @@
+# -Resoluci-n-y-Visualizaci-n-de-Problemas-de-Probabilidad-y-Distribuciones-en-R
+Desarrollo de una implementación en R para resolver problemas probabilísticos, abarcando espacios muestrales, técnicas de conteo y probabilidad condicional. Se integran variables discretas y continuas mediante Data Frames estructurados, combinando cálculos numéricos con la visualización de densidades y probabilidades acumuladas.
