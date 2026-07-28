@@ -18,6 +18,8 @@ Practica_probabilidad/
 │   ├── Funcion_1.R
 │   ├── Funcion_2.R
 │   └── Funcion_3.R
+|__ Reporte/
+|    |__ Reporte.pdf            # Reporte del proyecto
 └── Resultados/                 # Resultados generados automáticamente
     ├── Data.frames/            # Tablas exportadas (.csv)
     └── Graficas/               # Gráficas generadas (.png)
