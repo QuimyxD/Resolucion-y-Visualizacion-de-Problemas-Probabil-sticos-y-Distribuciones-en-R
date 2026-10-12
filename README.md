@@ -65,3 +65,12 @@ Practica_probabilidad/
 # Objetivo
 
 Desarrollar una solución modular en **R** que permita automatizar la resolución de ejercicios probabilísticos, facilitar la interpretación de resultados mediante visualizaciones y generar salidas organizadas para su posterior análisis o documentación.
+
+---
+## Autor y Créditos
+
+**Cecil Quimey Azuara Yáñez**
+
+- **Carrera:** Licenciatura en Ingeniería de Datos e Inteligencia Artificial (LIDIA).
+- **Institución:** Universidad de Guanajuato – División de Ingenierías (Campus Irapuato - Salamanca).
+- **Asignatura:** Probabilidad.
